@@ -18,6 +18,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AshuKumari21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshuKumari21/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AshuKumari21/Leetcode/tree/master/0010-regular-expression-matching) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AshuKumari21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
