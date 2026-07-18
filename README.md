@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AshuKumari21/Leetcode/tree/master/0007-reverse-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AshuKumari21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshuKumari21/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -14,6 +15,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/AshuKumari21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AshuKumari21/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/AshuKumari21/Leetcode/tree/master/0035-search-insert-position) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AshuKumari21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshuKumari21/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -34,6 +36,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AshuKumari21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshuKumari21/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
