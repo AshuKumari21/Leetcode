@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AshuKumari21/Leetcode/tree/master/0007-reverse-integer) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AshuKumari21/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AshuKumari21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshuKumari21/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
