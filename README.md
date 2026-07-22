@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/AshuKumari21/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/AshuKumari21/Leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/AshuKumari21/Leetcode/tree/master/0029-divide-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AshuKumari21/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AshuKumari21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AshuKumari21/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/AshuKumari21/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
