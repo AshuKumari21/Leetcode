@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshuKumari21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/AshuKumari21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshuKumari21/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/AshuKumari21/Leetcode/tree/master/0035-search-insert-position) |
 | [1260-shift-2d-grid](https://github.com/AshuKumari21/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -23,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AshuKumari21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshuKumari21/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AshuKumari21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshuKumari21/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -97,6 +99,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AshuKumari21/Leetcode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshuKumari21/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
