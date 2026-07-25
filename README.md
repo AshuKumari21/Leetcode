@@ -21,6 +21,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/AshuKumari21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AshuKumari21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshuKumari21/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AshuKumari21/Leetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/AshuKumari21/Leetcode/tree/master/0035-search-insert-position) |
 | [1260-shift-2d-grid](https://github.com/AshuKumari21/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AshuKumari21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshuKumari21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshuKumari21/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AshuKumari21/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AshuKumari21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshuKumari21/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshuKumari21/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AshuKumari21/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AshuKumari21/Leetcode/tree/master/0016-3sum-closest) |
 | [3536-maximum-product-of-two-digits](https://github.com/AshuKumari21/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshuKumari21/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
