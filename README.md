@@ -82,12 +82,14 @@
 | [0010-regular-expression-matching](https://github.com/AshuKumari21/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/AshuKumari21/Leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshuKumari21/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AshuKumari21/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshuKumari21/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AshuKumari21/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AshuKumari21/Leetcode/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AshuKumari21/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshuKumari21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AshuKumari21/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
