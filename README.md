@@ -14,6 +14,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AshuKumari21/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AshuKumari21/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshuKumari21/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -89,20 +90,24 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshuKumari21/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AshuKumari21/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AshuKumari21/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AshuKumari21/Leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AshuKumari21/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |
