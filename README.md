@@ -28,6 +28,7 @@
 | [0031-next-permutation](https://github.com/AshuKumari21/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AshuKumari21/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshuKumari21/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/AshuKumari21/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshuKumari21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/AshuKumari21/Leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AshuKumari21/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -148,6 +150,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/AshuKumari21/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
