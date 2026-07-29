@@ -26,6 +26,7 @@
 | [0016-3sum-closest](https://github.com/AshuKumari21/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AshuKumari21/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AshuKumari21/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AshuKumari21/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshuKumari21/Leetcode/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/AshuKumari21/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshuKumari21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AshuKumari21/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshuKumari21/Leetcode/tree/master/0035-search-insert-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
