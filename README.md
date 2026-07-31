@@ -57,6 +57,7 @@
 | [0018-4sum](https://github.com/AshuKumari21/Leetcode/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshuKumari21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AshuKumari21/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AshuKumari21/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshuKumari21/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -94,6 +95,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AshuKumari21/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshuKumari21/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshuKumari21/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AshuKumari21/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AshuKumari21/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -103,6 +105,7 @@
 | [0012-integer-to-roman](https://github.com/AshuKumari21/Leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AshuKumari21/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -113,6 +116,7 @@
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshuKumari21/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
@@ -142,6 +146,7 @@
 | [0011-container-with-most-water](https://github.com/AshuKumari21/Leetcode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshuKumari21/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshuKumari21/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
