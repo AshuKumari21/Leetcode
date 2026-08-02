@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/AshuKumari21/Leetcode/tree/master/0029-divide-two-integers) |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AshuKumari21/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AshuKumari21/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AshuKumari21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshuKumari21/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -33,6 +34,7 @@
 | [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AshuKumari21/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/AshuKumari21/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshuKumari21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AshuKumari21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -130,6 +132,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AshuKumari21/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AshuKumari21/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -196,4 +199,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AshuKumari21/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
