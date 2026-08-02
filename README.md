@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/AshuKumari21/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/AshuKumari21/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AshuKumari21/Leetcode/tree/master/0029-divide-two-integers) |
+| [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AshuKumari21/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AshuKumari21/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -30,6 +31,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AshuKumari21/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshuKumari21/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
+| [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/AshuKumari21/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshuKumari21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -127,10 +129,12 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AshuKumari21/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AshuKumari21/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 ## Linked List
 |  |
 | ------- |
@@ -188,4 +192,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AshuKumari21/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
