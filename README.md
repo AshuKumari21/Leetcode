@@ -33,6 +33,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AshuKumari21/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshuKumari21/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AshuKumari21/Leetcode/tree/master/0877-stone-game) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AshuKumari21/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AshuKumari21/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AshuKumari21/Leetcode/tree/master/1406-stone-game-iii) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshuKumari21/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshuKumari21/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshuKumari21/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
