@@ -34,6 +34,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AshuKumari21/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshuKumari21/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -232,4 +233,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/AshuKumari21/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
