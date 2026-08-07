@@ -37,6 +37,7 @@
 | [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0047-permutations-ii) |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AshuKumari21/Leetcode/tree/master/0877-stone-game) |
@@ -66,6 +67,7 @@
 | [0015-3sum](https://github.com/AshuKumari21/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AshuKumari21/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AshuKumari21/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshuKumari21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -241,5 +243,6 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0047-permutations-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
