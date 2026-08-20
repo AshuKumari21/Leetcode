@@ -1,45 +1,50 @@
 class Solution {
     public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
-        Map<Integer, List<Integer>> map = new HashMap<>();
-        int group = 0;
-        int count = 0;
-        boolean groupA = true;
-        boolean groupB = true;
-        boolean groupC = true;
+        Map<Integer, Integer> rows = new HashMap<>();
 
-        for(int[] seat : reservedSeats){
-            if(!map.containsKey(seat[0])){
-                map.put(seat[0], new ArrayList<>());
+        for (int[] r : reservedSeats) {
+            int row = r[0];
+            int seat = r[1];
+
+            if (seat == 1 || seat == 10) {
+                continue;
             }
 
-            map.get(seat[0]).add(seat[1]);
+            int mask = rows.getOrDefault(row, 0);
+            mask |= 1 << seat;
+            rows.put(row, mask);
         }
 
-        for(int k : map.keySet()){
-            groupA = true;
-            groupB = true;
-            groupC = true;
-            count++;
-            for(int v : map.get(k)){
-                if(v == 2 || v == 3 || v == 4 || v == 5){
-                    groupA = false;
-                }
-                if(v == 4 || v == 5 || v == 6 || v == 7){
-                    groupB = false;
-                }
-                if(v == 6 || v == 7 || v == 8 || v == 9){
-                    groupC = false;
-                }
-            }
-            if(groupA && groupC){
-                group += 2;
-            } 
-            else if(groupA || groupB || groupC){
-                group++;
+        int total = (n - rows.size()) * 2;
+
+        int leftMask = 0;
+        int middleMask = 0;
+        int rightMask = 0;
+
+        for (int seat = 2; seat <= 5; seat++) {
+            leftMask |= 1 << seat;
+        }
+
+        for (int seat = 4; seat <= 7; seat++) {
+            middleMask |= 1 << seat;
+        }
+
+        for (int seat = 6; seat <= 9; seat++) {
+            rightMask |= 1 << seat;
+        }
+
+        for (int mask : rows.values()) {
+            boolean leftFree = (mask & leftMask) == 0;
+            boolean middleFree = (mask & middleMask) == 0;
+            boolean rightFree = (mask & rightMask) == 0;
+
+            if (leftFree && rightFree) {
+                total += 2;
+            } else if (leftFree || middleFree || rightFree) {
+                total += 1;
             }
         }
 
-        group += (n - count) * 2;
-        return group;
+        return total;
     }
 }
