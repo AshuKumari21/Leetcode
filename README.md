@@ -46,6 +46,7 @@
 | [0047-permutations-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AshuKumari21/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AshuKumari21/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AshuKumari21/Leetcode/tree/master/0056-merge-intervals) |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AshuKumari21/Leetcode/tree/master/0877-stone-game) |
@@ -87,6 +88,7 @@
 | [0018-4sum](https://github.com/AshuKumari21/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AshuKumari21/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AshuKumari21/Leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshuKumari21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -316,4 +318,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AshuKumari21/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AshuKumari21/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
