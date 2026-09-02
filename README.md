@@ -45,6 +45,7 @@
 | [0045-jump-game-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AshuKumari21/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AshuKumari21/Leetcode/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AshuKumari21/Leetcode/tree/master/0877-stone-game) |
@@ -85,6 +86,7 @@
 | [0016-3sum-closest](https://github.com/AshuKumari21/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AshuKumari21/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/AshuKumari21/Leetcode/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshuKumari21/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -125,6 +127,7 @@
 | [0012-integer-to-roman](https://github.com/AshuKumari21/Leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshuKumari21/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AshuKumari21/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/AshuKumari21/Leetcode/tree/master/0049-group-anagrams) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshuKumari21/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AshuKumari21/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AshuKumari21/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -142,6 +145,7 @@
 | [0012-integer-to-roman](https://github.com/AshuKumari21/Leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AshuKumari21/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/AshuKumari21/Leetcode/tree/master/0049-group-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/AshuKumari21/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshuKumari21/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshuKumari21/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
