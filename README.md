@@ -196,6 +196,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AshuKumari21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/AshuKumari21/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/AshuKumari21/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 ## Stack
 |  |
 | ------- |
