@@ -50,6 +50,7 @@
 | [0056-merge-intervals](https://github.com/AshuKumari21/Leetcode/tree/master/0056-merge-intervals) |
 | [0486-predict-the-winner](https://github.com/AshuKumari21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshuKumari21/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/AshuKumari21/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AshuKumari21/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AshuKumari21/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/AshuKumari21/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -227,6 +228,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/AshuKumari21/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AshuKumari21/Leetcode/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/AshuKumari21/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/AshuKumari21/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
